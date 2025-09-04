@@ -1,0 +1,2 @@
+# InteligenciaArtificial_y_RedesNeuronales_UANL
+Actividades de clase
